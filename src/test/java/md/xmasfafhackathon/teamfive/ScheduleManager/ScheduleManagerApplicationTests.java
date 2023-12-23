@@ -1,4 +1,4 @@
-package md.fafhackathon.teamfive.ScheduleManager;
+package md.xmasfafhackathon.teamfive.ScheduleManager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

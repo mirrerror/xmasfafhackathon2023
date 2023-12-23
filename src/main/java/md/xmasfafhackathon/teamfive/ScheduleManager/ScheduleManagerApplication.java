@@ -1,4 +1,4 @@
-package md.fafhackathon.teamfive.ScheduleManager;
+package md.xmasfafhackathon.teamfive.ScheduleManager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
